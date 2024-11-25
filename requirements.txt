@@ -1,0 +1,10 @@
+System Requirement
+
+
+1.	Software Requirements
+Operating System		:		Windows 10/8/7 (32-bit or 64-bit)/ Linux
+Software			:		Text Editor/VS code
+Compiler			:		CPython
+2.	Hardware Requirements
+Processor			:		Dual Core 2.7 GHz or better
+RAM				:		512 MB or higher
